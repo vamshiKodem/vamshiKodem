@@ -19,6 +19,6 @@
 - Code reviews and Maintaining Application architecture.
 - Building Scalable, High Performance & Secure Applications.
 - Developing Unit and integration test cases.
-- Debugging & Troubleshooting Applications.
+- Debugging and troubleshooting Applications.
 - Collaborating with team members and stakeholders.
 
