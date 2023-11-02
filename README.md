@@ -13,7 +13,7 @@
 - 👨🏼‍💻 Frontend Framework/Libary: React Native, React js and Next js
 - 👨🏼‍💻 Backend Technology: Node.js
 - 👨🏼‍💻 Unit Texting Library: Jest and React Native Testing Library
-- 👨🏼‍💻 Other Technologys: Splunk, Redux, Webpack, Xcode, Android Studio, HTML, CSS, SASS/SCSS, Bootstrap
+- 👨🏼‍💻 Other Technologies: Splunk, Redux, Webpack, Xcode, Android Studio, HTML, CSS, SASS/SCSS, Bootstrap
 - 👨🏼‍💻 Version Control: Gitlhub, Gitlab, Bitbucket
 
 
